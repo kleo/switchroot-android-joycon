@@ -1,13 +1,16 @@
-# Disable Switchroot Android mouse
+# Switchroot Android joystick
+
+Flashable zips to disable Switchroot Android mouse and joysticks
 
 Based on Chiveta's [Joycons programmable zip](https://forum.xda-developers.com/t/mods-sh-apks-mods-lineage-os-17-1-16.4230419/)
 
-Mouse defaults [Vendor_057e_Product_2008.kl](https://gitlab.incom.co/CM-Shield/android_hardware_nintendo_joycond/-/blob/lineage-18.1/android/Vendor_057e_Product_2008.kl)
+Key defaults [Vendor_057e_Product_2008.kl](https://gitlab.incom.co/CM-Shield/android_hardware_nintendo_joycond/-/blob/lineage-18.1/android/Vendor_057e_Product_2008.kl)
 
 # Usage
 
-0. Enable advanced restart on Developer options
-1. Restart recovery
-2. Mount all partitions 
-3. Install zip
-4. Reboot
+0. Download zip at [releases](https://github.com/kleo/switchroot-android-disable-joystick/releases)
+1. Enable advanced restart on Developer options 
+2. Restart recovery
+3. On TWRP mount all partitions 
+4. Install zip
+5. Reboot 
