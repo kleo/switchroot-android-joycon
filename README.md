@@ -6,9 +6,11 @@ Based on Chiveta's [Joycons programmable zip](https://forum.xda-developers.com/t
 
 Key Layout defaults [Vendor_057e_Product_2008.kl](https://gitlab.incom.co/CM-Shield/android_hardware_nintendo_joycond/-/blob/lineage-18.1/android/Vendor_057e_Product_2008.kl)
 
-[Android Key Layout Files](https://source.android.com/devices/input/key-layout-files)
+[Android Key Layout Files](https://source.android.com/devices/input/key-layout-files#joystick)
 
-# Usage
+[Android KeyEvent](https://developer.android.com/reference/android/view/KeyEvent#KEYCODE_BUTTON_A)
+
+## Usage
 
 0. Download zip at [releases](https://github.com/kleo/switchroot-android-disable-joystick/releases)
 1. Enable advanced restart on Developer options 
