@@ -1,5 +1,7 @@
 # switchroot-android-joycon
 
+![GitHub all releases](https://img.shields.io/github/downloads/kleo/switchroot-android-joycon/total?style=flat-square)
+
 Flashable zips to customize Switchroot Android joycons key layout.
 
 ## Usage
